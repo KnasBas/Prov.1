@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Prov_1
 {
-    class Book
+    class Book //Book klassen
     {
         public int price = 0;                   // Public
         private string name;                    // Private parameterar
